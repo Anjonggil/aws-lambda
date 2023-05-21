@@ -1,2 +1,4 @@
-# aws-lamdba
-AWS Lamdba를 정리하기 위한 project
+# aws-lamdbda
+AWS Lamdba에 대한 ~
+
+## AWS Lamdbda란
