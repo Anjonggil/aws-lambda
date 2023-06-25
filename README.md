@@ -1,9 +1,9 @@
 # aws-lamdbda
 
-## 1. AWS Lamdbda란 [(AWS Lambda란?)](https://www.44bits.io/ko/keyword/aws-lambda)
+## 1. AWS Lambda란 [(AWS Lambda란?)](https://www.44bits.io/ko/keyword/aws-lambda)
 > AWS Lamdbda란 아마존 웹 서비스에서 제공하는 서버리스 컴퓨팅 서비스입니다. 별도의 서버 셋업 없이 곧바로 코드를 실행시켜주는 서비스를 의미하며, 고정 비용 없이 사용 시간에 대해서만 비용이 발생합니다. 
 
-현재 AWS Lamdbda의 경우 **C#, Golang, Java, JavaScript, Python, Rudy**를 공식적으로 지원하고 있습니다. 또한 Lambda Runtime에서는 **커스텀 이미지**를 사용하는 것도 가능합니다.
+현재 AWS Lambda의 경우 **C#, Golang, Java, JavaScript, Python, Rudy**를 공식적으로 지원하고 있습니다. 또한 Lambda Runtime에서는 **커스텀 이미지**를 사용하는 것도 가능합니다.
 
 람다는 기본적으로 이벤트 드라이븐 방식으로 동작합니다. API Gateway, S3, DynamoDB, SNS 등 다양한 트리거를 통해 동작할 수 있습니다.
 
